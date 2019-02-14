@@ -36,7 +36,7 @@ If you are thinking you'd like to DIY a Nearness - it is highly recommended to c
 	* ```TXn Build Guide.pdf``` - a PDF build guide to walk your through component-level placement
 	* ```TXn Assembler.svg``` - little laser-cut forms to hold your boards together when soldering the 90 degree angle.
 	* ```TXn Frame``` - a 3D printed frame to hold multiple TXn at a time
-	* ```TXn Stencil Frame``` - a 3D printed stencil frame to hold the TXn in place while soldering
+	* ```TXn Stencil Frame``` - a 3D printed stencil frame to hold the TXn in place while applying solder paste
 	* ```TXn Stencil.svg``` - the solder paste stencil for laser cutting
 	
 * **board**
